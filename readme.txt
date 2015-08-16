@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Another way to add a remote origin.
 Test for git config --global.
 Creating a new branch is quick and simple.
+Add merge.
